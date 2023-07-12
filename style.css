@@ -1,0 +1,10 @@
+body{
+    fill: aqua;
+}
+p{
+    text-align: right;
+}
+img{
+    border: 5px color-mix(in hsl longer hue, color percentage, color percentage) red;
+}
+
